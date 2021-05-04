@@ -12,8 +12,7 @@
 </head>
 </head>
 <body>
- <h1 align="center">Simplilearn May 2021</h1>
-<h1 align="center">Congrats Divik Tiwari - your app deployed on Tomcat!</h1>
-<h2 align="center">This is cool huh?!</h2>
+ <h1 align="center">Welcome To My Website</h1>
+<h1 align="center">Congrats Divik Tiwari's App is working on Tomcat</h1>
 </body>
 </html>
